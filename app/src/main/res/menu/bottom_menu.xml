@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/itMessages"
+        android:icon="@drawable/baseline_message_24"
+        android:title="Сообщения"/>
+    <item android:id="@+id/itFriends"
+        android:icon="@drawable/baseline_group_24"
+        android:title="Друзья"/>
+    <item android:id="@+id/itProfile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Профиль"/>
+
+</menu>
